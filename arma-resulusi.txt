@@ -1,4 +1,4 @@
 Arma resolusi
 - konsisten dalam mempelajari pemrograman
 - menguasai js dan react js
-- membuat website film 
+- membuat website shopping
